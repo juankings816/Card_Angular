@@ -1,6 +1,6 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { Ejemplo1Component } from "../ejemplo1/ejemplo1.component";
-
+  
 @Component({
   selector: 'app-ejemplo2',
   standalone: true,
